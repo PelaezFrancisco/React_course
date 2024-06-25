@@ -1,0 +1,7 @@
+#create protect
+npm create vite@latest <proyect name>
+
+#first configs
+cd <proyect name>
+npm install
+npm run dev
