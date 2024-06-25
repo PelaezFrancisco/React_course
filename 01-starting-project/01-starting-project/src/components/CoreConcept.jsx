@@ -1,5 +1,5 @@
 //function CoreConcept(props) {
-function CoreConcept({ image, title, description }) {
+export default function CoreConcept({ image, title, description }) {
   return (
     <li>
       <img src={image} alt={title}></img>
